@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grainymac
+- 👋 Hi, I’m Ian (@grainymac).  I'm a front end developer and photographer that lives in Fort Worth, Texas.  Ive just recently began my developing career and looking forward to learning and developing more projects.
 - 👀 I’m interested in becoming a Font-End Developer
 - 🌱 I’m currently learning Javascript, HTML, and CSS.
 - 💞️ I’m looking to collaborate on projects where I can develop my skills as a developer.
