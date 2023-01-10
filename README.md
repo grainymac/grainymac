@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Ian (@grainymac).  I'm a front end developer and photographer that lives in Fort Worth, Texas.  Ive just recently began my developing career and looking forward to learning and developing more projects.
-- 👀 I’m interested in becoming a Font-End Developer
-- 🌱 I’m currently learning Javascript, HTML, and CSS.
+- 👋 Hi, I’m Ian (@grainymac).  I am an experienced software developer with a strong background in web development and a passion for creating user-friendly and visually engaging applications. Skilled in React.js, Material UI, and GSAP. Recently built a Dad Joke Generator application using these technologies, demonstrating my ability to create both functional and visually appealing applications.
 - 💞️ I’m looking to collaborate on projects where I can develop my skills as a developer.
 - 📫 How to reach me at [LinkedIn](https://www.linkedin.com/in/ianmac87/)
 
