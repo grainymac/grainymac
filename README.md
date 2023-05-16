@@ -3,8 +3,9 @@
 - 📫 How to reach me at [LinkedIn](https://www.linkedin.com/in/ianmac87/)
 
 ### RECENT PROJECTS
-![Screenshot 2023-02-17 at 10 50 37 AM](https://user-images.githubusercontent.com/106535343/219717172-51af7f40-c593-4698-8b7d-5fe245971440.png)
-![211422164-c234c353-6f9d-4912-a269-54a8875753a9](https://user-images.githubusercontent.com/106535343/211906158-1805febf-e645-4075-9ffe-ddc097aa08fa.jpeg)
+<img src="https://user-images.githubusercontent.com/106535343/238504217-6a5ee11b-0730-4e66-bbce-ceb01c12b4fd.png">
+<img src="https://user-images.githubusercontent.com/106535343/219717172-51af7f40-c593-4698-8b7d-5fe245971440.png">
+<img src="https://user-images.githubusercontent.com/106535343/211906158-1805febf-e645-4075-9ffe-ddc097aa08fa.jpeg">
 <img width="1376" alt="207132285-8b90f14e-d818-4283-8b7d-ce767a15c34a" src="https://user-images.githubusercontent.com/106535343/211906037-056630c1-3038-4c76-b323-c65eb01e9a8b.png">
 ![Screenshot 2022-11-15 at 12 58 19 PM](https://user-images.githubusercontent.com/106535343/202006577-be106cde-d204-4b01-abfb-fe5ab9dc5ac2.png)
 <img width="1375" alt="200469143-08938abd-f256-4379-86ad-22e71f82a625" src="https://user-images.githubusercontent.com/106535343/211906877-87403a94-fc97-4d3c-b9b6-472cba58093d.png">
