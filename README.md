@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Ian (@grainymac).  I am an experienced software developer with a strong background in web development and a passion for creating user-friendly and visually engaging applications. Skilled in React.js, Material UI, and GSAP. Recently built a Dad Joke Generator application using these technologies, demonstrating my ability to create both functional and visually appealing applications.
+- 👋 Hi, I’m Ian (@grainymac).  I am an experienced software developer with a strong background in web development and a passion for creating user-friendly and visually engaging applications. Skilled in React.js, HTML, and CSS.
 - 💞️ I’m looking to collaborate on projects where I can develop my skills as a developer.
-- 📫 How to reach me at [LinkedIn](https://www.linkedin.com/in/ianmac87/)
+- 📫 How to reach me at [LinkedIn](https://www.linkedin.com/in/ian-mcintosh-texas/)
+- ✨ Can checkout my Developer Portfolio [here](https://ianmac.dev)
 
 ### RECENT PROJECTS
+![darkWeather](https://github.com/grainymac/grainymac/assets/106535343/8b5c1ef3-c067-4f69-86f9-39db8ca18739)
 <img src="https://user-images.githubusercontent.com/106535343/238504217-6a5ee11b-0730-4e66-bbce-ceb01c12b4fd.png">
 <img src="https://user-images.githubusercontent.com/106535343/219717172-51af7f40-c593-4698-8b7d-5fe245971440.png">
 <img src="https://user-images.githubusercontent.com/106535343/211906158-1805febf-e645-4075-9ffe-ddc097aa08fa.jpeg">
