@@ -4,6 +4,7 @@
 - ✨ Can checkout my Developer Portfolio [here](https://ianmac.dev)
 
 ### RECENT PROJECTS
+![Screenshot 2023-11-11 at 9 04 52 AM](https://github.com/grainymac/grainymac/assets/106535343/864067f7-3fb1-4811-b5ee-709d8e9a2cfa)
 ![darkWeather](https://github.com/grainymac/grainymac/assets/106535343/8b5c1ef3-c067-4f69-86f9-39db8ca18739)
 <img src="https://user-images.githubusercontent.com/106535343/238504217-6a5ee11b-0730-4e66-bbce-ceb01c12b4fd.png">
 <img src="https://user-images.githubusercontent.com/106535343/219717172-51af7f40-c593-4698-8b7d-5fe245971440.png">
